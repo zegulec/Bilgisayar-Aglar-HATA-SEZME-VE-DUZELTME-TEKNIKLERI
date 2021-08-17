@@ -1,0 +1,1 @@
+# Bilgisayar-Aglar-HATA-SEZME-VE-DUZELTME-TEKNIKLERI
