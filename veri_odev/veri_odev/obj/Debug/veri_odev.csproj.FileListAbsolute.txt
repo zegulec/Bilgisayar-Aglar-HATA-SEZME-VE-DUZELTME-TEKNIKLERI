@@ -1,0 +1,13 @@
+C:\Users\zegul\OneDrive\Masaüstü\veri_odev\veri_odev\bin\Debug\veri_odev.exe.config
+C:\Users\zegul\OneDrive\Masaüstü\veri_odev\veri_odev\obj\Debug\veri_odev.csprojResolveAssemblyReference.cache
+C:\Users\zegul\OneDrive\Masaüstü\veri_odev\veri_odev\obj\Debug\veri_odev.acilis.resources
+C:\Users\zegul\OneDrive\Masaüstü\veri_odev\veri_odev\obj\Debug\veri_odev.checksum.resources
+C:\Users\zegul\OneDrive\Masaüstü\veri_odev\veri_odev\obj\Debug\veri_odev.Properties.Resources.resources
+C:\Users\zegul\OneDrive\Masaüstü\veri_odev\veri_odev\obj\Debug\veri_odev.csproj.GenerateResource.Cache
+C:\Users\zegul\OneDrive\Masaüstü\veri_odev\veri_odev\bin\Debug\veri_odev.exe
+C:\Users\zegul\OneDrive\Masaüstü\veri_odev\veri_odev\bin\Debug\veri_odev.pdb
+C:\Users\zegul\OneDrive\Masaüstü\veri_odev\veri_odev\obj\Debug\veri_odev.exe
+C:\Users\zegul\OneDrive\Masaüstü\veri_odev\veri_odev\obj\Debug\veri_odev.pdb
+C:\Users\zegul\OneDrive\Masaüstü\veri_odev\veri_odev\obj\Debug\veri_odev.lrcvrc.resources
+C:\Users\zegul\OneDrive\Masaüstü\veri_odev\veri_odev\obj\Debug\veri_odev.crc.resources
+C:\Users\zegul\OneDrive\Masaüstü\veri_odev\veri_odev\obj\Debug\veri_odev.hamming.resources
